@@ -12,6 +12,7 @@
     "require": {
         "php": "~7.1",
         "illuminate/support": "^5.6",
+        "kduma/sms": "^1.0",
         "serwersms/serwersms-php-client": "^1.0.0"
     },
     "autoload": {
